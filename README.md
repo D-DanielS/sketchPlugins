@@ -5,7 +5,7 @@
 `Sketch packs` [Download](https://sketchpacks.com/)
 
 
-## Plugins
+### Plugins
 
 1. `Renameit` [Link](https://github.com/rodi01/RenameIt)
 2. `Sketch Measure`[Link](https://github.com/utom/sketch-measure)
@@ -15,10 +15,10 @@
 5. `Gifme`[Link](https://github.com/eliasjulian/sketch-gifme-plugin
 ) 
 
-## Prototype
+### Prototype
 `Craf Invision`[Link](https://www.invisionapp.com/craft)
 `Marvel`[Link](https://marvelapp.com/sketch/)
 
 
-## Designer and developer
+### Designer and developer
 `Zeplin`[Link](https://zeplin.io/) 
