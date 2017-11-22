@@ -1,7 +1,7 @@
 # sketchPlugins by Juan Lizcano
 
 
-## Sketch plugins manager and sync
+### Sketch plugins manager and sync
 `Sketch packs` [Download](https://sketchpacks.com/)
 
 
