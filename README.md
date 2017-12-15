@@ -6,7 +6,6 @@
 
 
 ### Plugins
-
 1. `Renameit` [Link](https://github.com/rodi01/RenameIt)
 2. `Sketch Measure`[Link](https://github.com/utom/sketch-measure)
 3. `Sketch Iconfont`[Link](https://github.com/keremciu/sketch-iconfont)
@@ -20,11 +19,8 @@
 11. `MagicMirror`[Link](https://github.com/MagicSketch/MagicMirror)
 12. `Sketch Swtches`[Link](https://github.com/Ashung/Sketch_Swatches)
 13. `Sketch Lorem Ipsum`[Link](https://github.com/freeauto/sketch-lorem-ipsum-2017)
-
-
-
-
-
+14. `Comma`[Link](https://github.com/margusholland/Comma)
+15. `SketchShortcuts`[Link](http://sketchshortcuts.com/)
 
 
 ### Prototype
