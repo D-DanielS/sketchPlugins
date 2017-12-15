@@ -16,10 +16,10 @@
 7. `Sketch Palettes`[Link](https://github.com/andrewfiorillo/sketch-palettes)
 8. `Map Generator`[Link](https://github.com/eddiesigner/sketch-map-generator)
 9. `Prism`[Link](https://github.com/ment-mx/Prism)
-10 `AnimateMate`[Link](https://github.com/Creatide/AnimateMate)
-11 `MagicMirror`[Link](https://github.com/MagicSketch/MagicMirror)
-12 `Sketch Swtches`[Link](https://github.com/Ashung/Sketch_Swatches)
-13 `Sketch Lorem Ipsum`[Link](https://github.com/freeauto/sketch-lorem-ipsum-2017)
+10. `AnimateMate`[Link](https://github.com/Creatide/AnimateMate)
+11. `MagicMirror`[Link](https://github.com/MagicSketch/MagicMirror)
+12. `Sketch Swtches`[Link](https://github.com/Ashung/Sketch_Swatches)
+13. `Sketch Lorem Ipsum`[Link](https://github.com/freeauto/sketch-lorem-ipsum-2017)
 
 
 
